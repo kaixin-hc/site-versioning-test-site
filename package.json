@@ -1,11 +1,12 @@
 {
     "name": "markbind-default-template",
-    "version": "2.5.3",
-    "description": "Minimal Template for markbind",
+    "version": "4.0.2",
+    "description": "Minimal Template for MarkBind",
     "dependencies": {
-        "markbind-cli": "2.5.3"
+        "markbind-cli": "4.0.2"
     },
     "scripts": {
+        "serve": "markbind serve your_site",
         "build": "markbind build your_site your_site/_site"
     }
 }

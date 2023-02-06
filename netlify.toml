@@ -2,4 +2,4 @@
   base    = "/"
   publish = "your_site/_site"
   command = "npm run build"
-  environment = { NPM_FLAGS = "--global-style", NODE_VERSION = "8.16.1", NPM_VERSION = "6.4.1" }
+  environment = { NPM_FLAGS = "--global-style", NODE_VERSION = "14.19.0", NPM_VERSION = "8.3.1" }
