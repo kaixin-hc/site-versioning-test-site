@@ -23,8 +23,7 @@
     }
   ],
   "style": {
-    "bootstrapTheme": "bootswatch-zephyr",
-    "codeTheme": "light"
+    "bootstrapTheme": "bootswatch-lux"
   },
   "deploy": {
     "message": "Site Update."
