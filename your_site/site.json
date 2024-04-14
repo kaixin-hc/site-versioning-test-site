@@ -22,6 +22,10 @@
       "glob": ["**/index.md", "**/*.md"]
     }
   ],
+  "style": {
+    "bootstrapTheme": "bootswatch-zephyr",
+    "codeTheme": "light"
+  },
   "deploy": {
     "message": "Site Update."
   }
